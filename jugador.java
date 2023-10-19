@@ -13,6 +13,7 @@ public class jugador {
     private double errores;
     private double aces;
     private double totalServicios;
+
     //se crea el constructor de la clase jugadorinicializa las variables de instancia de la clase 
     //se crea el constructor de la clase jugador
     
